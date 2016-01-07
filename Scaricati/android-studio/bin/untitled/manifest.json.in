@@ -1,0 +1,16 @@
+{
+  "description": "A simple Unity scope that accesses the network",
+  "maintainer": "luca <luca@luca-K50AB>",
+  "architecture": "@CLICK_ARCH@",
+  "name": "com.ubuntu.developer.unknown.untitled",
+  "title": "untitled",
+  "framework" : "ubuntu-sdk-14.10",
+  "hooks": {
+    "myscope": {
+      "scope": "myscope",
+      "apparmor": "myscope.apparmor"
+    }
+  }
+}
+
+

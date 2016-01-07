@@ -1,0 +1,10 @@
+[ScopeConfig]
+_DisplayName=SoundScope Scope
+_Description=This is a SoundScope scope
+Art=screenshot.png
+Author=Firstname Lastname
+Icon=icon.png
+
+[Appearance]
+PageHeader.Logo=logo.png
+
